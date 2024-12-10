@@ -55,7 +55,4 @@ Adotamos as seguintes práticas para garantir o sucesso do projeto:
 
 ---
 
-## 📂 Estrutura do Projeto  
-
-A estrutura do projeto foi organizada da seguinte maneira:  
 
