@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # 🕹️ Jogo da Velha - Hackathon 1000devs  
 
 Este projeto foi desenvolvido durante um hackathon no programa **1000devs**, com o objetivo de criar um **Jogo da Velha** utilizando a linguagem **Java**. O hackathon incentivou a colaboração em equipe, a organização e o uso de boas práticas de programação.  
@@ -59,4 +56,3 @@ Adotamos as seguintes práticas para garantir o sucesso do projeto:
 ---
 
 
->>>>>>> 47144e7899efdeabc7732751ca329d51a63b2b59
